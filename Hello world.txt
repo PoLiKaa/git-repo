@@ -2,5 +2,5 @@ print("Hello world")
 print("Hello everybody")
 print("Hello world")
 print("Hello")
-print
+print("Glad to c u")
 print("Hello my dear friend")
